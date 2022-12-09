@@ -17,5 +17,5 @@ int main(){
      }
       cout << "#Even numbers = "<<even-1<< endl;
       cout << "#Odd numbers = "<<odd<< endl;
-    
+    return 0;
 }
